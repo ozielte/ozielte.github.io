@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ozielte.github.io/sitemap/sitemap.txt
